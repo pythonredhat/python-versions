@@ -23,7 +23,7 @@ which python
 /Users/username/.pyenv/versions
 ```
 
-# Managing versions in pipenv
+# Managing versions in pipenv virtual environment
 
 ### if creating a new pipenv virtual environment:
 ```bash
