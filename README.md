@@ -46,3 +46,9 @@ then install the new python version in the virtual environment:
 ```bash
 pipenv --python /Users/username/.pyenv/versions/3.6.0/bin/python
 ```
+
+### verify your python version in your virtual environment:
+```bash
+python --version
+Python 3.6.0
+```
