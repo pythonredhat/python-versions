@@ -54,3 +54,8 @@ pipenv --python /Users/username/.pyenv/versions/3.6.0/bin/python
 python --version
 Python 3.6.0
 ```
+
+---
+# resource:
+https://www.ianmaddaus.com/post/manage-multiple-versions-python-mac/
+
